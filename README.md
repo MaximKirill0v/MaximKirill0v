@@ -25,7 +25,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="600" height="350"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBhZWJhMTQ3MTY1ODhjMmY3OGU3MmQ5Y2NkMWQ5NDgyZmM0YWExNyZjdD1n/L8K62iTDkzGX6/giphy.gif" width="600" height="350"/>
 </div>
 
 ---
@@ -57,6 +57,3 @@ I am a beginner python programmer <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
